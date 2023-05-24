@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -379,8 +379,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   plaveablePrefab:
-  - {fileID: 3116972417662467273, guid: a9c77110a045add4b81e011ab6663e9c, type: 3}
-  - {fileID: 2157593041942259564, guid: 163b29efd35c50d4c80c4b56ef0ec786, type: 3}
+  - {fileID: 5639467003353324410, guid: 691030055e19cec4b961ef36b447c423, type: 3}
+  - {fileID: 3118114495891325662, guid: f21b1dbe200eaf84bb0afd6380ef2b1b, type: 3}
+  - {fileID: 5034121190867976099, guid: be7e379eaa8fc7e45846dd67d47b0437, type: 3}
+  - {fileID: 6711609346732820816, guid: 2b9cbb72e4e43a64aaf534333534cf1a, type: 3}
 --- !u!114 &1146789199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -394,7 +396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SerializedLibrary: {fileID: 11400000, guid: 201e074ccce9d084bb4c35b1d81229f2, type: 2}
-  m_MaxNumberOfMovingImages: 2
+  m_MaxNumberOfMovingImages: 4
   m_TrackedImagePrefab: {fileID: 0}
 --- !u!114 &1146789200
 MonoBehaviour:
