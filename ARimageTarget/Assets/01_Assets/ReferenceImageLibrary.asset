@@ -21,39 +21,69 @@ MonoBehaviour:
       m_GuidLow: 5216893984479368722
       m_GuidHigh: 416077082295031725
     m_SerializedTextureGuid:
-      m_GuidLow: 13250779262037071850
-      m_GuidHigh: 11073725333560039098
-    m_Size: {x: 0.3, y: 0.51276255}
+      m_GuidLow: 13052711548380721821
+      m_GuidHigh: 4547892694822421272
+    m_Size: {x: 0.3, y: 0.53333336}
     m_SpecifySize: 1
-    m_Name: BlackKey
+    m_Name: Saber
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5538081248569679074
       m_GuidHigh: 5657942668067972008
     m_SerializedTextureGuid:
-      m_GuidLow: 4077136282583798388
-      m_GuidHigh: 4791844863072876825
-    m_Size: {x: 0.3, y: 0.5129033}
+      m_GuidLow: 9116544213722471780
+      m_GuidHigh: 6410538923229365531
+    m_Size: {x: 0.3, y: 0.53333336}
     m_SpecifySize: 1
-    m_Name: Excalibur
+    m_Name: Lancer
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5064997329517770527
       m_GuidHigh: 7130767117230473891
     m_SerializedTextureGuid:
-      m_GuidLow: 8607644303873573910
-      m_GuidHigh: 17397123751094849992
-    m_Size: {x: 0.3, y: 0.51276255}
+      m_GuidLow: 15065728299059923347
+      m_GuidHigh: 10281682116184191769
+    m_Size: {x: 0.3, y: 0.53333336}
     m_SpecifySize: 1
-    m_Name: Trace
+    m_Name: Archer
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5464641869149868929
       m_GuidHigh: 690089469930082464
     m_SerializedTextureGuid:
-      m_GuidLow: 4779558974856265492
-      m_GuidHigh: 14960316666066753656
-    m_Size: {x: 0.3, y: 0.5129033}
+      m_GuidLow: 685697380899457013
+      m_GuidHigh: 7613186045840620040
+    m_Size: {x: 0.3, y: 0.53333336}
     m_SpecifySize: 1
-    m_Name: Frankenstein
+    m_Name: Rider
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4741277797179374850
+      m_GuidHigh: 15543240025611563670
+    m_SerializedTextureGuid:
+      m_GuidLow: 8679741071777471935
+      m_GuidHigh: 9223319850600687113
+    m_Size: {x: 0.3, y: 0.53333336}
+    m_SpecifySize: 1
+    m_Name: Assassin
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4625049635658428771
+      m_GuidHigh: 9244664474348279975
+    m_SerializedTextureGuid:
+      m_GuidLow: 15583598931699916584
+      m_GuidHigh: 14822079609429059145
+    m_Size: {x: 0.3, y: 0.53333336}
+    m_SpecifySize: 1
+    m_Name: Caster
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5707431602689663679
+      m_GuidHigh: 17846290117686037404
+    m_SerializedTextureGuid:
+      m_GuidLow: 7044768334364405343
+      m_GuidHigh: 9917940444615910410
+    m_Size: {x: 0.3, y: 0.53333336}
+    m_SpecifySize: 1
+    m_Name: Berserker
     m_Texture: {fileID: 0}
